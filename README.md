@@ -1,5 +1,5 @@
 # Calculadora
-<h2>Repositório destinado a mini projetos</h2>
+
     <h3>Calculadora básica feita em HTML, CSS E Javascript</h3>
 
 
